@@ -1,0 +1,88 @@
+*{
+    font-family: Verdana;
+    color:  white;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    background-color: rgb(203, 0, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.homeheader{
+    font-size: 70px;
+    border: solid white 10px;
+    padding: 10px;
+    border-radius: 1em;
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul li{
+    display: inline;
+    padding: 22px;
+    background-color: darkred;
+    margin: 4%;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+nav ul :hover{
+    padding-bottom: 50px;
+    color: white;
+}
+h1{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+nav{
+    background-color: rgb(203, 0, 0);
+    padding: 30px;
+}
+body{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+#active{
+    padding-bottom: 50px;
+}
+main{
+    background-color: darkred;
+    padding: 0;
+    border: 0;
+    
+}
+.switch{
+    padding-right: 20px;
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+main{
+    padding-bottom: 50em;
+}
+main article{
+    padding-top: 50px;
+}
+.switch1stuff{
+    padding-bottom: 70px;
+}
+footer{
+    background-color: rgb(67, 0, 0);
+    text-align: center;
+    padding: 20px;
+}
+.secondtext{
+    text-align: right;
+}
+.switcholed{
+    padding-left: 15px;
+    border-radius: 20px;
+}
+
+
